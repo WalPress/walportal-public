@@ -29,15 +29,18 @@ To add your blob site to Walportal's directory, you'll need to submit the follow
 
 ### Available Categories
 
-- **Entertainment** - Games, media, and fun content
-- **Education** - Learning resources and educational materials
-- **Technology** - Tech blogs, documentation, and tools
-- **Art & Design** - Creative portfolios and design showcases
-- **Business** - Professional services and business resources
-- **News & Media** - News sites and media publications
-- **Personal** - Personal blogs and individual websites
-- **Community** - Forums, social platforms, and community sites
-- **Other** - Sites that don't fit into other categories
+- **Meme** -
+- **NFTs** -
+- **Games** -
+- **Chat & Messaging** -
+- **Blogs** -
+- **Popular** -
+- **Infrastructure** -
+- **DeFi** -
+- **Drives & Backups** -
+- **Research** -
+- **Entertainment** -
+
 
 ### Submission Process
 
